@@ -9,7 +9,7 @@ hero:
   text: 朕的江山
   tagline: 一个GISer的杂七杂八
   image:
-    src: /base/img/hua7.png
+    src: /img/hua7.png
     alt: aqin
   actions:
     - theme: brand

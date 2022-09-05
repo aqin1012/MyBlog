@@ -14,7 +14,7 @@ module.exports = {
   ],
   themeConfig: {
     siteTitle: "AQin",
-    logo: "/base/img/hua5.jpeg",
+    logo: "/img/hua5.jpeg",
     nav: [
       { text: "博客", link: "/articles/打不开Github" },
       { text: "gitee", link: "https://gitee.com/aqin1012" },
