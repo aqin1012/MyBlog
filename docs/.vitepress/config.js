@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/aqin/",
+  // base: "/aqin/",
   lang: "en-US",
   title: "aqin1012",
   description: "杂七杂八",
